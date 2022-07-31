@@ -1,19 +1,21 @@
 # Street Style Landing Page
 
- -I am VARUN GUPTA.
- -I am currently learning web development 
- -This is my first project in HTML and CSS
+ - I am VARUN GUPTA.
 
- ## Concepts Used
+ - I am currently learning web development 
+
+ - This is my first project in HTML and CSS
+
+## Concepts Used
     
- -HTML
-    - Learned more about divs.
-    - Learned to write HTML in a bit of a planned way rather than coding naively.
-
-   - CSS
+  1. HTML
+     - Learned more about divs.
+     - Learned to write HTML in a bit of a planned way rather than coding naively.
+    
+2. CSS
     - Learned a lot about position property in CSS.
     - Resizing the image
-    - Most important of all, learned to build a navbar with <ul> and writing appropriate CSS for a suitable navbar.
+    - Most important of all, learned to build a navbar with `<ul>` and writing appropriate CSS for a suitable navbar.
     
 ## Time Taken
 
