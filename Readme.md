@@ -6,14 +6,14 @@
 
  ## Concepts Used
     
-    -HTML
-        - Learned more about divs.
-        - Learned to write HTML in a bit of a planned way rather than coding naively.
+ -HTML
+    - Learned more about divs.
+    - Learned to write HTML in a bit of a planned way rather than coding naively.
 
-    - CSS
-        - Learned a lot about position property in CSS.
-        - Resizing the image
-        - Most important of all, learned to build a navbar with <ul> and writing appropriate CSS for a suitable navbar.
+   - CSS
+    - Learned a lot about position property in CSS.
+    - Resizing the image
+    - Most important of all, learned to build a navbar with <ul> and writing appropriate CSS for a suitable navbar.
     
 ## Time Taken
 
