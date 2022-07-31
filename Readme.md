@@ -26,7 +26,7 @@ This is a simple web page with a navbar and a image and some text.
 1. It took me around a complete day to figure out the position property.
 2. Making a navbar isn't easy for a beginner. So, It took me an ample amount of time as well. 
 
-###Note
+### Note
 
 > This website isn't responsive for now. So, kindly try to open this website in a PC right now.
 > In near future, the page will be responsive.
