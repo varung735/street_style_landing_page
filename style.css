@@ -1,0 +1,165 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:ital,wght@0,100;1,400&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0% 5%;
+}
+
+/* Styles for navbar only */
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  font-size: 20px;
+}
+
+.list-item:hover {
+  border-bottom: 2px solid #000000;
+}
+
+.list-item {
+  list-style: none;
+}
+
+.nav-button {
+  width: 150px;
+  padding: 5px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.button-group {
+  margin-top: 1%;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.nav-button {
+  font-size: 15px;
+  margin-left: 3%;
+  color: #4f4f4f;
+}
+
+nav :first-child + div > ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Styles for banner section */
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.hero-container {
+  margin-top: 50px;
+}
+
+.square {
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  z-index: -1;
+}
+
+.star {
+  position: absolute;
+  top: 23%;
+  right: 5%;
+}
+
+.globe {
+  position: absolute;
+  top: 16%;
+  right: 42%;
+}
+
+div.hero-container:nth-child(4) > div {
+  position: relative;
+  margin-top: 10%;
+}
+
+.hero-container-right {
+  width: 50%;
+  position: absolute;
+  top: 30%;
+  left: 45%;
+}
+
+img[alt="person-hero-iamge"] {
+  height: 500px;
+  width: 485px;
+}
+
+.hero-description {
+  padding: 0 16%;
+  color: #4f4f4f;
+}
+
+p.hero-description + div {
+  display: flex;
+  justify-content: center;
+  margin-top: 9%;
+  margin-bottom: 10%;
+  gap: 10px;
+}
+
+.button-email {
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.button-join {
+  width: 85px;
+  padding: 5px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  background: #000000;
+  color: #ffffff;
+}
+
+/* Style for contact section */
+
+h4 {
+  font-size: 18px;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.icons > span {
+  gap: 50px;
+}
+
+img[alt="messenger-icon"] {
+  padding: 0 20px;
+}
+
+img[alt="instagram-icon"] {
+  padding-right: 20px;
+}
